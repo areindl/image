@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   image: {
     hygraph: {
       // If not filled out, the provider will add this as a default.
-      baseURL: "https://media.graphassets.com",
+      baseurl: "https://media.graphassets.com",
     },
   },
 });
